@@ -5,4 +5,4 @@ The Game of Life, also known simply as Life, is a cellular automaton devised by 
 - A dead cell with exactly 3 live neighboring cells is "born" (i.e. the next shift it will be alive).
 - A living cell with 2 or 3 living neighboring cells remains alive, otherwise it dies (due to "loneliness" or "overpopulation").
 
-![GameOfLife](/images/game_of_life.png)
+![GameOfLife](/img/game_of_life.png)
